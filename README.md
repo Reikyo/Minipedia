@@ -16,9 +16,11 @@ The main reason for this project is simply to illustrate the basics of the Wikip
 <img src="images/Minipedia_Demo_1.png" alt="Level 1" width="700"/><br/>
 <img src="images/Minipedia_Demo_2.png" alt="Level 2" width="700"/>
 
-The above images show the running application. The first image shows the empty GUI as it appears on launch, and the second image shows the outputs for a processed search request. There are four output sections:
+The above images show the running application. The first image shows the empty GUI as it appears on launch, and the second image shows the outputs for a processed request. There are four output sections:
 
 - Description - A short description
 - Extract - A long description
 - Categories - The categories as usually found at the bottom of the Wikipedia article
 - Geo - The location on a map, if relevant
+
+The dropdown menu allows the user to select either all outputs to be shown (default), or a specific single output.
