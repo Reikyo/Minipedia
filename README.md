@@ -13,8 +13,8 @@ The main reason for this project is simply to illustrate the basics of the Wikip
 ## Outputs
 
 <br/><br/>
-<img src="images/Minipedia_Demo_1.png" alt="Level 1" width="500"/><br/>
-<img src="images/Minipedia_Demo_2.png" alt="Level 2" width="500"/>
+<img src="images/Minipedia_Demo_1.png" alt="Level 1" width="700"/><br/>
+<img src="images/Minipedia_Demo_2.png" alt="Level 2" width="700"/>
 
 The above images show the running application. The first image show the empty GUI as it appears on launch, and the second image shows the outputs for a processed search request. There are four output sections:
 
